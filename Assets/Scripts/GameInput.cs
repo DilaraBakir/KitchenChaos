@@ -22,7 +22,7 @@ public class GameInput : MonoBehaviour {
         OnInteractAlternateAction?.Invoke(this, EventArgs.Empty);
     }
 
-    private void Interact_performed(UnityEngine.InputSystem.InputAction.CallbackContext obj) {
+    private void Interact_performed(InputAction.CallbackContext obj) {
         OnInteractAction?.Invoke(this, EventArgs.Empty);
 
     }
