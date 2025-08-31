@@ -14,39 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1756392814
+  lastShownTimestamp: 1756641833
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1756392815
+  checkedLastUpdateTimestamp: 1756641833
   lastQOTDResponse:
-    questionId: 215
-    questionText: What will happen on January 19, 2038 at 03:14:07?
-    answerA: Armagedon
-    answerB: End of Unix Time
-    answerC: Half-Life 3 release date
+    questionId: 216
+    questionText: What is the purpose of Unity Hub?
+    answerA: Provide a space for the community to interact
+    answerB: Manage different Unity versions and Projects
+    answerC: Dashboard for Unity services
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1756392815
+  lastQotdTimestamp: 1756641833
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleBundleAug25RealisticEnv.png
     topText: AWESOME Realistic Environments 99% OFF!
     topLink: humblebundle
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1756392815
+  lastDynamicHeaderTimestamp: 1756641833
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1756392815
+  websiteLatestMessageTimestamp: 1756641833
   websiteLatestVideos:
     videos:
+    - youTubeId: JZHByNNQb3I
+      title: 8 QUICK Success and Marketing Tips you NEED to know!
     - youTubeId: FrKLJ1nCsxY
       title: Indie Dev makes $4 MILLION... then goes broke!
     - youTubeId: _fymNH4flZE
       title: TOP 10 NEW Systems and Tools AUGUST 2025! | Unity Asset Store
     - youTubeId: YCvh88Hg5m8
       title: TOP 8 QUICK Tips on Game Programming!
-    - youTubeId: Lgmv7PYKka8
-      title: Does this AI FINALLY replace Game Devs? Should YOU worry?
-  websiteLatestVideosTimestamp: 1756392815
+  websiteLatestVideosTimestamp: 1756641833
