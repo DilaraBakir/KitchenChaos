@@ -1,7 +1,6 @@
 using System;
 using UnityEngine;
 
-
 public class StoveCounter : BaseCounter, IHasProgress {
 
     public event EventHandler<IHasProgress.OnProgressChangedEventArgs> OnProgressChanged;
