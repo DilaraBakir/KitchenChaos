@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1757512321
+  lastShownTimestamp: 1757598759
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1757512321
+  checkedLastUpdateTimestamp: 1757598760
   lastQOTDResponse:
     questionId: 220
     questionText: 'Let''s say I saved my game data in a text file and I am now trying
@@ -33,18 +33,18 @@ MonoBehaviour:
     answerC: Yes but healthAmount will be 0
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1757512321
+  lastQotdTimestamp: 1757598760
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleBundleAug25RealisticEnv.png
     topText: AWESOME Realistic Environments 99% OFF!
     topLink: humblebundle
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1757512321
+  lastDynamicHeaderTimestamp: 1757598760
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1757512321
+  websiteLatestMessageTimestamp: 1757598760
   websiteLatestVideos:
     videos:
     - youTubeId: ftVR1xwfO5g
@@ -55,4 +55,4 @@ MonoBehaviour:
       title: 'Game Devs, don''t be AFRAID of Hollow Knight: Silksong!'
     - youTubeId: 8Ym28WJUYnQ
       title: The BIGGEST Problem in Game Dev!
-  websiteLatestVideosTimestamp: 1757512321
+  websiteLatestVideosTimestamp: 1757598760
