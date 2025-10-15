@@ -14,41 +14,55 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1758115967
+  lastShownTimestamp: 1760539877
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1758115967
+  checkedLastUpdateTimestamp: 1760539878
   lastQOTDResponse:
-    questionId: 222
-    questionText: Which of these are affected when you modify Time.timeScale?
-    answerA: Time.deltaTime, Time.realtimeSinceStartup, Time.unscaledDeltaTime, Time.timeSinceLevelLoad,
-      Time.fixedTime
-    answerB: Time.deltaTime, Time.realtimeSinceStartup, Time.timeSinceLevelLoad,
-      Time.fixedTime
-    answerC: Time.deltaTime, Time.timeSinceLevelLoad, Time.fixedTime
+    questionId: 231
+    questionText: 'What is the possible error in this code:
+
+      <p>tickTimer +=
+      Time.deltaTime;</p>
+
+      <p>if (tickTimer &gt;= TICK_TIMER_MAX) {</p>
+
+      <p>&nbsp;
+      &nbsp; tickTimer -= TICK_TIMER_MAX;</p>
+
+      <p>&nbsp; &nbsp; tick++;</p>
+
+      <p>&nbsp;
+      &nbsp; OnTickEvent(this, EventArgs.Empty);</p>
+
+      <p>}</p>'
+    answerA: None
+    answerB: NullReferenceException
+    answerC: 2 ticks at once
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1758115967
+  lastQotdTimestamp: 1760539878
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleBundleAug25RealisticEnv.png
-    topText: AWESOME Realistic Environments 99% OFF!
-    topLink: humblebundle
-    bottomText: My 10+ Years of C# Knowledge in 1 Course!
-    bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1758115967
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/chrisZJun24_LastCall.png
+    topText: Learn how to get more WISHLISTS and Sell more COPIES of your Games!
+    topLink: howtomarketagame
+    bottomText: DONT MISS the latest important trends, sign up for my FREE Weekly
+      Newsletter!
+    bottomLink: gamedevreport
+  lastDynamicHeaderTimestamp: 1760539878
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1758115967
+  websiteLatestMessageTimestamp: 1760539878
   websiteLatestVideos:
     videos:
-    - youTubeId: zQb8oq9IMZs
-      title: Unity 6.3 is HERE!
-    - youTubeId: 4tXBS87J0Po
-      title: TOP 10 FREE NEW Assets SEPTEMBER 2025!
-    - youTubeId: -LQ0C9B2bzQ
-      title: Was I WRONG about Silksong?
-    - youTubeId: 8BIpWVsQFnQ
-      title: TOP 10 NEW Games, Made with Unity! (AUGUST 2025)
-  websiteLatestVideosTimestamp: 1758115967
+    - youTubeId: bTQZU_CV9UY
+      title: TOP 10 FREE NEW Assets OCTOBER 2025!
+    - youTubeId: 6jjwMLflLOU
+      title: This AWESOME Tool MULTIPLIES all your assets!
+    - youTubeId: iTpoP8M6dxg
+      title: 8 QUICK Unity Tips to make BETTER Games!
+    - youTubeId: RBgFEaRn_jg
+      title: Is YouTube EASY MONEY compared to Game Dev?
+  websiteLatestVideosTimestamp: 1760539878
